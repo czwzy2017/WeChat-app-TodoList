@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/todo/index",
+    "pages/todo/create"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6482DD",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
